@@ -266,10 +266,10 @@
 }
 
 .u-section-4 .u-group-4 {
-  min-height: 308px;
+  min-height: 296px;
   width: 461px;
   height: auto;
-  margin: 34px 49px 26px auto;
+  margin: 46px 49px 26px auto;
 }
 
 .u-section-4 .u-container-layout-4 {
@@ -282,7 +282,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  margin: 12px 12px 0;
+  margin: 0 12px;
 }
 
 @media (max-width: 1199px) {
